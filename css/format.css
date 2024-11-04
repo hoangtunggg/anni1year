@@ -20,6 +20,12 @@
 	color: white;
 }
 
+#txt3 {
+	font-size: 16px;
+	text-align: center;
+	color: white;
+}
+
 #content{
 	position: absolute;
 	top: 1%;
